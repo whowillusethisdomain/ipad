@@ -1,1 +1,29 @@
-yy
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	div.cen {
+text-align: center;
+}
+</style></head>
+<body>
+<div class="cen">
+<h1>아이패드를 사야하는 이유(성능)</h1>
+
+<details>
+  <summary>성능</summary>
+  <p>지금 나오는 비슷한 가격대의 AP시스템[시스템칩] 보다 약 20%더 좋은 성능을 가지고 있다.
+      벤치마크(높을수록 좋다 평균은 싱글:1800 멀티:4000쯤) 싱글점수는 2099 멀티는 4800정도로 중상위 수준이며 S23Fe보다 조금 더높다.</p>
+</details>
+<br>
+<br>
+<details>
+  <summary>지금있는 S6와 성능비교</summary>
+  <p>cpu(메인처리장치)성능: S6:40점, 아이패드:76점<br>
+     gpu(그래픽)성능: S6:43점 아이패드:85점
+ <br>배터리효율: S6:83점 아이패드:92점
+<br>전체: S6:50점 아이패드:80점</p>
+</details>
+</div>
+</body>
+</html>
