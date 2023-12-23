@@ -89,6 +89,7 @@ cy.on('tap', function (e) {
     const url = e.target.data('url')
     if (url && url !== '') {
         window.open(url);
+	    cy.maxZoom(0.5)
     }
 });
 
