@@ -14,7 +14,7 @@ const cy = cytoscape({
     elements: [ // list of graph elements to start with
     {"data": {
         "id": 'main',
-        "url": 'https://wanttogetipad.p-e.kr/',
+        "url": 'https://wanttogetipad.p-e.kr',
         "label": '메인'
      }
     },
