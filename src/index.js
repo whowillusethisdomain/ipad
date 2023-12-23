@@ -32,7 +32,7 @@ const cy = cytoscape({
     },
     {"data": {
         "id": '3comfortable',
-        "url": 'reasonpag',
+        "url": 'reasons/perform',
         "label": '성능'
      }
     },
