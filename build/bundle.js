@@ -10658,13 +10658,13 @@ var cy = cytoscape__WEBPACK_IMPORTED_MODULE_0___default()({
   }, {
     "data": {
       "id": '2develope',
-      "url": 'https://wanttogetipad.p-e.kr/reasons/devs',
+      "url": 'https://wanttogetipad.p-e.kr/reasons/devs.html',
       "label": '개발환경'
     }
   }, {
     "data": {
       "id": '3comfortable',
-      "url": 'https://wanttogetipad.p-e.kr/reasons/perform',
+      "url": 'https://wanttogetipad.p-e.kr/reasons/perform.html',
       "label": '성능'
     }
   }, {
