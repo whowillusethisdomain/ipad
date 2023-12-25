@@ -10658,7 +10658,7 @@ var cy = cytoscape__WEBPACK_IMPORTED_MODULE_0___default()({
   }, {
     "data": {
       "id": '2develope',
-      "url": 'reasonpage',
+      "url": 'https://wanttogetipad.p-e.kr/reasons/devs',
       "label": '개발환경'
     }
   }, {
