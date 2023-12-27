@@ -10652,7 +10652,7 @@ var cy = cytoscape__WEBPACK_IMPORTED_MODULE_0___default()({
   }, {
     "data": {
       "id": '1security',
-      "url": 'reasonpagy',
+      "url": 'https://wanttogetipad.p-e.kr/reasons/security.html',
       "label": '보안'
     }
   }, {
